@@ -1,0 +1,8 @@
+:set hintchars=hjklasdfgyuiopqwertnmzxcvb
+:set scroll=7
+:map J 10j
+:map K 10k
+:set defsearch=duckduckgo
+
+:noremap q :tabprevious<CR>
+:noremap w :tabnext<CR>
